@@ -332,21 +332,3 @@ CURL GET command samples for different (User, Site, Organization) microservices:
 	```bash
 	curl -X GET 'http://localhost:8083/api/organizations/1/with-users'
 	```
-
-## About me
-
-I am Sayed Baladoh - Phd. Senior Software Engineer. I like software development. You can contact me via:
-
-* [LinkedIn+](https://www.linkedin.com/in/sayed-baladoh-227aa66b/)
-* [Mail](mailto:sayedbaladoh@yahoo.com)
-* [Phone +20 1004337924](tel:+201004337924)
-
-_**Any improvement or comment about the project is always welcome! As well as others shared their code publicly I want to share mine! Thanks!**_
-
-## Acknowledgments
-
-Thanks for reading. 
-Did I help you?
-
-+ Share it with someone you think it might be helpful.
-+ Give a star to this project
